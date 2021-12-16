@@ -67,7 +67,7 @@ export default function Home({ navigation }) {
 
                 <Text
                     style={styles.text}>
-                    Today Me
+                    Today
                 </Text>
 
             </View>
